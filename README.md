@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @alok12-3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alok12-3/alok12-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# here is the link for credits
+https://drive.google.com/file/d/1y6AEGy-3nis1N6zwg4qzRuKzjybsO9KH/view?usp=sharing
+# here is the link of dataset
+https://drive.google.com/file/d/1y6AEGy-3nis1N6zwg4qzRuKzjybsO9KH/view?usp=sharing
